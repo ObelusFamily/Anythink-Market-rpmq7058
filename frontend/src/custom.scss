@@ -26,11 +26,11 @@ body {
   background-image: url("./imgs/background.png");
   background-position: top;
   background-repeat: no-repeat;
+  width: 100%
 }
 .page {
   margin-top: 2 * $spacer;
   margin-bottom: 2 * $spacer;
-  width: 100%;
 }
 
 .user-pic {
